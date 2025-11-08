@@ -1,4 +1,5 @@
 .idea/
+.clangd/
+.cache/
 cmake-build-debug/
 build/
-

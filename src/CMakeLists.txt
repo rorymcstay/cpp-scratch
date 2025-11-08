@@ -1,7 +1,6 @@
 add_library(scratch
     trie.cpp
     trie.h
-    functional.cpp
     functional.h
 )
 
