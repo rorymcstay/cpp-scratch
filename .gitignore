@@ -3,3 +3,6 @@
 .cache/
 cmake-build-debug/
 build/
+Testing
+compile_commands.json
+install/

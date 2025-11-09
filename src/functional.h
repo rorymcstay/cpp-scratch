@@ -27,6 +27,7 @@ public:
       return _right->find(value_);
     }
   };
+
   [[nodiscard]] std::string to_string() const {
     return "Node(" + _value + ")";
   };
